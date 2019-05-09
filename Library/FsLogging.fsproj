@@ -9,6 +9,7 @@
     <owners>Brad</owners>
     <PackageLicenseExpression>GPL-3.0-or-later</PackageLicenseExpression>
     <description>An opinionated implementation of logging</description>
+    <PackageProjectUrl>https://github.com/bradder555/FsLogging</PackageProjectUrl>
   </PropertyGroup>
 
   <ItemGroup>
@@ -17,7 +18,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="FsTime" Version="1.0.2" />
+    <PackageReference Include="FsTime" Version="1.0.4" />
     <PackageReference Include="hopac" Version="0.4.1" />
     <PackageReference Include="system.io" Version="4.3.0" />
     <PackageReference Include="system.io.ports" Version="4.5.0" />
